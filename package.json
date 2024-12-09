@@ -14,7 +14,7 @@
     "body-parser": "^1.19.0",
     "dotenv": "^16.0.3",
     "experts": "^1.6.1",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "openai": "^4.71.1",
     "update": "^0.7.4"
   },
